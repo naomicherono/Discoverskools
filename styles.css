@@ -24,3 +24,8 @@ nav ul li{
 .home{
     color: white;
 }
+
+.mySlides {display:none;
+    width:100%;
+    height: 400px;
+}
