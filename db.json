@@ -1,0 +1,89 @@
+{
+    "schools": [
+      {
+        "name": "Alliance High School",
+        "website": "https://www.alliancehighschool.ac.ke/",
+        "image": "https://cdn.standardmedia.co.ke/images/saturday/rsd63t9zcpmp355cf9e092460c.jpg",
+        "gender": "boys",
+        "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
+        "fees": "60000",
+        "curriculumn": "KNEC",
+        "contact_number": "+254722000000",
+        "location": "Kikuyu",
+        "country": "Kenya"
+      },
+      {
+        "name": "Kapsabet Boys",
+        "website": "https://kapsabethighschool.sc.ke/",
+        "image":"https://www.jambonews.co.ke/wp-content/uploads/2019/12/kapsabe.jpg",
+        "gender": "boys",
+        "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
+        "fees": "60000",
+        "curriculumn": "KNEC",
+        "contact_number": "+254722000000",
+        "location": "Kikuyu",
+        "country": "Kenya"
+      },
+      {
+        "name": "Mangu High",
+        "website": "https://www.manguhigh.com/",
+        "image":"https://www.jambonews.co.ke/wp-content/uploads/2019/12/Screenshot_20191208-145413.jpg",
+        "gender": "boys",
+        "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
+        "fees": "60000",
+        "curriculumn": "KNEC",
+        "contact_number": "+254722000000",
+        "location": "Kikuyu",
+        "country": "Kenya"
+      },
+      {
+        "name": "Nairobi School",
+        "website": "https://www.nairobischool.ac.ke/",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Patch1_Nairobi_school.jpg/220px-Patch1_Nairobi_school.jpg",
+        "gender": "boys",
+        "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
+        "fees": "61000",
+        "curriculumn": "KNEC",
+        "contact_number": "+254722000000",
+        "location": "Kikuyu",
+        "country": "Kenya"
+      },
+      {
+        "name": "Friends School kamusinga",
+        "website": "https://www.fsk.sc.ke/",
+        "image":"https://alchetron.com/cdn/friends-school-kamusinga-8d842867-d9d6-4ea2-876f-f2869ca754d-resize-750.jpg",
+        "gender": "boys",
+        "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
+        "fees": "61000",
+        "curriculumn": "KNEC",
+        "contact_number": "+254722000000",
+        "location": "Kikuyu",
+        "country": "Kenya"
+      },
+      {
+        "name": "Kenya High",
+        "website": "http://www.kenyahigh.ac.ke/",
+        "image":"https://www.jambonews.co.ke/wp-content/uploads/2019/12/Screenshot_20191210-175021.jpg",
+        "gender": "girls",
+        "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
+        "fees": "61000",
+        "curriculumn": "KNEC",
+        "contact_number": "+254722000000",
+        "location": "Kikuyu",
+        "country": "Kenya"
+      },
+      {
+        "name": "MaryHill Girls",
+        "website": "https://www.businesslist.co.ke/company/138574/maryhill-girls-high",
+        "image":"https://educationnewshub.co.ke/wp-content/uploads/2019/11/download-2019-11-10T112745.046-265x183.jpg",
+        "gender": "girls",
+        "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
+        "fees": "61000",
+        "curriculumn": "KNEC",
+        "contact_number": "+254722000000",
+        "location": "Kikuyu",
+        "country": "Kenya"
+      }
+      
+    ]
+}
