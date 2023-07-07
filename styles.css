@@ -138,3 +138,16 @@ footer{
   border: 1px solid #888;
   width: 700px;
 }
+
+#modal-close:hover,
+#modal-close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+#basicAccordion {
+  width: 1000px;
+  margin-left: 350px;
+}
+
