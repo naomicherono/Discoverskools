@@ -48,3 +48,28 @@ function displayCards(schools, gender, containerId) {
   });
 }
 
+
+// Open modal with school details
+function openModal(school) {
+  const modal = document.getElementById('modal');
+  const modalTitle = document.getElementById('modal-title');
+  const modalAdmission = document.getElementById('modal-admission');
+  const modalFees = document.getElementById('modal-fees');
+  const modalCurriculum = document.getElementById('modal-curriculum');
+  const modalContacts = document.getElementById('modal-contacts');
+  const modalWebsite = document.getElementById('modal-website');
+
+  modalTitle.textContent = school.name;
+  modalAdmission.textContent = 'Admission Requirements: ' + school.admission;
+  modalFees.textContent = 'Fees: ' + school.fees + ' KES';
+  modalCurriculum.textContent = 'Curriculum: ' + school.curriculumn;
+  modalContacts.textContent = 'Contact Details: ' + school.contact_number;
+  modalWebsite.innerHTML = '<a href="' + school.website + '" target="_blank">Visit Website</a>';
+
+  modal.style.display = 'block';
+
+  const modalClose = document.getElementById('modal-close');
+  modalClose.addEventListener('click', closeModal);
+
+  window.addEventListener('click', outsideClick);
+}
