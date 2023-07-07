@@ -47,3 +47,4 @@ function displayCards(schools, gender, containerId) {
     cardsContainer.appendChild(card);
   });
 }
+
