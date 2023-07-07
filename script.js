@@ -73,3 +73,21 @@ function openModal(school) {
 
   window.addEventListener('click', outsideClick);
 }
+
+
+// Close modal
+function closeModal() {
+  const modal = document.getElementById('modal');
+  modal.style.display = 'none';
+
+  window.removeEventListener('click', outsideClick);
+}
+
+// Close modal if clicked outside of it
+function outsideClick(event) {
+  const modal = document.getElementById('modal');
+  if (event.target == modal) {
+    modal.style.display = 'none';
+    window.removeEventListener('click', outsideClick);
+  }
+}
