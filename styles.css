@@ -1,6 +1,13 @@
 #logo{
     height: 10vh;
 }
+header{
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 10px;
+  z-index: 999;
+}
 nav ul{
     background-color: rgb(12, 12, 54);
     height: 10vh;  
@@ -19,6 +26,7 @@ nav ul li{
     display: inline-block;
     margin-right: 10px;
     margin: auto;
+    
 }
 
 .home{
@@ -26,6 +34,7 @@ nav ul li{
 }
 
 .mySlides {display:none;
-    width:100%;
+    width:50%;
     height: 400px;
+    
 }

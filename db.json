@@ -6,11 +6,22 @@
         "image": "https://cdn.standardmedia.co.ke/images/saturday/rsd63t9zcpmp355cf9e092460c.jpg",
         "gender": "boys",
         "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
-        "fees": "60000",
+        "fees": "67,244",
         "curriculumn": "KNEC",
-        "contact_number": "+254722000000",
+        "contact_number": "+254735888639",
         "location": "Kikuyu",
-        "country": "Kenya"
+        "country": "Kenya",
+        "reviews": [
+            {
+              "rating": 4,
+              "content": "This school has excellent teachers and a great sports program."
+            },
+            {
+              "rating": 5,
+              "content": "I highly recommend this school. The facilities are top-notch."
+            }
+          ]
+    
       },
       {
         "name": "Kapsabet Boys",
@@ -18,11 +29,22 @@
         "image":"https://www.jambonews.co.ke/wp-content/uploads/2019/12/kapsabe.jpg",
         "gender": "boys",
         "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
-        "fees": "60000",
+        "fees": "120000",
         "curriculumn": "KNEC",
         "contact_number": "+254722000000",
-        "location": "Kikuyu",
-        "country": "Kenya"
+        "location": "Nandi",
+        "country": "Kenya",
+        "reviews": [
+            {
+              "rating": 4,
+              "content": "This school has excellent teachers and a great sports program."
+            },
+            {
+              "rating": 5,
+              "content": "I highly recommend this school. The facilities are top-notch."
+            }
+          ]
+    
       },
       {
         "name": "Mangu High",
@@ -30,11 +52,22 @@
         "image":"https://www.jambonews.co.ke/wp-content/uploads/2019/12/Screenshot_20191208-145413.jpg",
         "gender": "boys",
         "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
-        "fees": "60000",
+        "fees": "75,798",
         "curriculumn": "KNEC",
-        "contact_number": "+254722000000",
-        "location": "Kikuyu",
-        "country": "Kenya"
+        "contact_number": "0202319804",
+        "location": "Thika",
+        "country": "Kenya",
+        "reviews": [
+            {
+              "rating": 4,
+              "content": "This school has excellent teachers and a great sports program."
+            },
+            {
+              "rating": 5,
+              "content": "I highly recommend this school. The facilities are top-notch."
+            }
+          ]
+    
       },
       {
         "name": "Nairobi School",
@@ -42,11 +75,22 @@
         "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Patch1_Nairobi_school.jpg/220px-Patch1_Nairobi_school.jpg",
         "gender": "boys",
         "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
-        "fees": "61000",
+        "fees": "60000",
         "curriculumn": "KNEC",
-        "contact_number": "+254722000000",
-        "location": "Kikuyu",
-        "country": "Kenya"
+        "contact_number": "0204442799",
+        "location": "Nairobi",
+        "country": "Kenya",
+        "reviews": [
+            {
+              "rating": 4,
+              "content": "This school has excellent teachers and a great sports program."
+            },
+            {
+              "rating": 5,
+              "content": "I highly recommend this school. The facilities are top-notch."
+            }
+          ]
+    
       },
       {
         "name": "Friends School kamusinga",
@@ -56,9 +100,20 @@
         "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
         "fees": "61000",
         "curriculumn": "KNEC",
-        "contact_number": "+254722000000",
-        "location": "Kikuyu",
-        "country": "Kenya"
+        "contact_number": "+2547222325554",
+        "location": "Kimilili",
+        "country": "Kenya",
+        "reviews": [
+            {
+              "rating": 4,
+              "content": "This school has excellent teachers and a great sports program."
+            },
+            {
+              "rating": 5,
+              "content": "I highly recommend this school. The facilities are top-notch."
+            }
+          ]
+    
       },
       {
         "name": "Kenya High",
@@ -66,11 +121,22 @@
         "image":"https://www.jambonews.co.ke/wp-content/uploads/2019/12/Screenshot_20191210-175021.jpg",
         "gender": "girls",
         "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
-        "fees": "61000",
+        "fees": "67,244",
         "curriculumn": "KNEC",
-        "contact_number": "+254722000000",
-        "location": "Kikuyu",
-        "country": "Kenya"
+        "contact_number": "+254724253920",
+        "location": "Nairobi",
+        "country": "Kenya",
+        "reviews": [
+            {
+              "rating": 4,
+              "content": "This school has excellent teachers and a great sports program."
+            },
+            {
+              "rating": 5,
+              "content": "I highly recommend this school. The facilities are top-notch."
+            }
+          ]
+    
       },
       {
         "name": "MaryHill Girls",
@@ -78,12 +144,207 @@
         "image":"https://educationnewshub.co.ke/wp-content/uploads/2019/11/download-2019-11-10T112745.046-265x183.jpg",
         "gender": "girls",
         "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
-        "fees": "61000",
+        "fees": "95000",
         "curriculumn": "KNEC",
-        "contact_number": "+254722000000",
+        "contact_number": "0202011779",
+        "location": "Thika",
+        "country": "Kenya",
+        "reviews": [
+            {
+              "rating": 4,
+              "content": "This school has excellent teachers and a great sports program."
+            },
+            {
+              "rating": 5,
+              "content": "I highly recommend this school. The facilities are top-notch."
+            }
+          ]
+    
+      },
+      {
+        "name": "Alliance Girls",
+        "website": "https://en.wikipedia.org/wiki/Alliance_Girls_High_School",
+        "image":"https://pbs.twimg.com/media/E58SjgjXsAIgaPi?format=jpg&name=4096x4096",
+        "gender": "girls",
+        "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
+        "fees": "67244",
+        "curriculumn": "KNEC",
+        "contact_number": "+254735888639",
         "location": "Kikuyu",
-        "country": "Kenya"
+        "country": "Kenya",
+        "reviews": [
+            {
+              "rating": 4,
+              "content": "This school has excellent teachers and a great sports program."
+            },
+            {
+              "rating": 5,
+              "content": "I highly recommend this school. The facilities are top-notch."
+            }
+          ]
+    
+      },
+      {
+        "name": "Moi Girls High School Eldoret",
+        "website": "https://web.facebook.com/MoiGirlsEld/?_rdc=1&_rdr",
+        "image":"https://pbs.twimg.com/media/EJY149fX0AANA-C.jpg",
+        "gender": "girls",
+        "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
+        "fees": "71000",
+        "curriculumn": "KNEC",
+        "contact_number": "+254721969756",
+        "location": "Eldoret",
+        "country": "Kenya",
+        "reviews": [
+            {
+              "rating": 4,
+              "content": "This school has excellent teachers and a great sports program."
+            },
+            {
+              "rating": 5,
+              "content": "I highly recommend this school. The facilities are top-notch."
+            }
+          ]
+    
+      },
+      {
+        "name": "Pangani Girls High School",
+        "website": "https://www.tuko.co.ke/407809-pangani-girls-fees-structure-kcse-performance-uniform-location.html",
+        "image":"https://netstorage-tuko.akamaized.net/images/9afc821a5c04d6e2.jpg",
+        "gender": "girls",
+        "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
+        "fees": "68,000",
+        "curriculumn": "KNEC",
+        "contact_number": "+254733314991",
+        "location": "Nairobi",
+        "country": "Kenya",
+        "reviews": [
+            {
+              "rating": 4,
+              "content": "This school has excellent teachers and a great sports program."
+            },
+            {
+              "rating": 5,
+              "content": "I highly recommend this school. The facilities are top-notch."
+            }
+          ]
+    
+      },
+      {
+        "name": "Brookhouse School",
+        "website": "https://www.brookhouse.ac.ke/",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO46N206oE2yf4BwAk_stSkU6ixp8mSSyStA&usqp=CAU",
+        "gender": "international",
+        "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
+        "fees": "450,000",
+        "curriculumn": "British",
+        "contact_number": "+254759174256",
+        "location": "Nairobi",
+        "country": "Kenya",
+        "reviews": [
+            {
+              "rating": 4,
+              "content": "This school has excellent teachers and a great sports program."
+            },
+            {
+              "rating": 5,
+              "content": "I highly recommend this school. The facilities are top-notch."
+            }
+          ]
+    
+      },
+      {
+        "name": "Hillcrest International Schools",
+        "website": "https://www.hillcrest.ac.ke/",
+        "image":"data:image/jpeg;base64,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",
+        "gender": "international",
+        "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
+        "fees": "550,000",
+        "curriculumn": "British",
+        "contact_number": "+254724255444",
+        "location": "Nairobi",
+        "country": "Kenya",
+        "reviews": [
+            {
+              "rating": 4,
+              "content": "This school has excellent teachers and a great sports program."
+            },
+            {
+              "rating": 5,
+              "content": "I highly recommend this school. The facilities are top-notch."
+            }
+          ]
+    
+      },
+      {
+        "name": "Rosslyn Academy",
+        "website": "https://rosslynacademy.org/",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUiSAvBeCP0x5xAUlsNEsfttl4BKnij1BEQA&usqp=CAU",
+        "gender": "international",
+        "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
+        "fees": "490,000",
+        "curriculumn": "British",
+        "contact_number": "02026352294",
+        "location": "Nairobi",
+        "country": "Kenya",
+        "reviews": [
+            {
+              "rating": 4,
+              "content": "This school has excellent teachers and a great sports program."
+            },
+            {
+              "rating": 5,
+              "content": "I highly recommend this school. The facilities are top-notch."
+            }
+          ]
+    
+      },
+      {
+        "name": "Rusinga School",
+        "website": "https://www.rusinga.ac.ke/",
+        "image":"data:image/jpeg;base64,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",
+        "gender": "international",
+        "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
+        "fees": "285,000",
+        "curriculumn": "British",
+        "contact_number": "+254722205341",
+        "location": "Nairobi",
+        "country": "Kenya",
+        "reviews": [
+            {
+              "rating": 4,
+              "content": "This school has excellent teachers and a great sports program."
+            },
+            {
+              "rating": 5,
+              "content": "I highly recommend this school. The facilities are top-notch."
+            }
+          ]
+    
+      },
+      {
+        "name": "Woodcreek School",
+        "website": "https://www.woodcreekschool.sc.ke",
+        "image":"data:image/jpeg;base64,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",
+        "gender": "international",
+        "admission": "Application forms A nonrefundable application feePassport-size photographs for students (varies depending on the school)Applicant’s valid passpor Proof of scholarship if any Medical Reports Copy of the birth certificate for students below the age of 16 National identity document for students above 16 Most recent reports from the previous school (for students transferring from another school) School clearance letter from the previous school (if transferring) The transfer letter from the previous school (transferring students) Proof of Residence in Kenya",
+        "fees": "907,500",
+        "curriculumn": "British",
+        "contact_number": "+254743299810",
+        "location": "Nairobi",
+        "country": "Kenya",
+        "reviews": [
+            {
+              "rating": 4,
+              "content": "This school has excellent teachers and a great sports program."
+            },
+            {
+              "rating": 5,
+              "content": "I highly recommend this school. The facilities are top-notch."
+            }
+          ]
+    
       }
-      
+
     ]
 }
