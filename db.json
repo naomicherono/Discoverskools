@@ -10,17 +10,7 @@
         "curriculumn": "KNEC",
         "contact_number": "+254735888639",
         "location": "Kikuyu",
-        "country": "Kenya",
-        "reviews": [
-            {
-              "rating": 4,
-              "content": "This school has excellent teachers and a great sports program."
-            },
-            {
-              "rating": 5,
-              "content": "I highly recommend this school. The facilities are top-notch."
-            }
-          ]
+        "country": "Kenya"
     
       },
       {
@@ -33,18 +23,7 @@
         "curriculumn": "KNEC",
         "contact_number": "+254722000000",
         "location": "Nandi",
-        "country": "Kenya",
-        "reviews": [
-            {
-              "rating": 4,
-              "content": "This school has excellent teachers and a great sports program."
-            },
-            {
-              "rating": 5,
-              "content": "I highly recommend this school. The facilities are top-notch."
-            }
-          ]
-    
+        "country": "Kenya"
       },
       {
         "name": "Mangu High",
@@ -56,17 +35,7 @@
         "curriculumn": "KNEC",
         "contact_number": "0202319804",
         "location": "Thika",
-        "country": "Kenya",
-        "reviews": [
-            {
-              "rating": 4,
-              "content": "This school has excellent teachers and a great sports program."
-            },
-            {
-              "rating": 5,
-              "content": "I highly recommend this school. The facilities are top-notch."
-            }
-          ]
+        "country": "Kenya"
     
       },
       {
@@ -79,17 +48,7 @@
         "curriculumn": "KNEC",
         "contact_number": "0204442799",
         "location": "Nairobi",
-        "country": "Kenya",
-        "reviews": [
-            {
-              "rating": 4,
-              "content": "This school has excellent teachers and a great sports program."
-            },
-            {
-              "rating": 5,
-              "content": "I highly recommend this school. The facilities are top-notch."
-            }
-          ]
+        "country": "Kenya"
     
       },
       {
@@ -102,17 +61,7 @@
         "curriculumn": "KNEC",
         "contact_number": "+2547222325554",
         "location": "Kimilili",
-        "country": "Kenya",
-        "reviews": [
-            {
-              "rating": 4,
-              "content": "This school has excellent teachers and a great sports program."
-            },
-            {
-              "rating": 5,
-              "content": "I highly recommend this school. The facilities are top-notch."
-            }
-          ]
+        "country": "Kenya"
     
       },
       {
@@ -125,18 +74,7 @@
         "curriculumn": "KNEC",
         "contact_number": "+254724253920",
         "location": "Nairobi",
-        "country": "Kenya",
-        "reviews": [
-            {
-              "rating": 4,
-              "content": "This school has excellent teachers and a great sports program."
-            },
-            {
-              "rating": 5,
-              "content": "I highly recommend this school. The facilities are top-notch."
-            }
-          ]
-    
+        "country": "Kenya"
       },
       {
         "name": "MaryHill Girls",
@@ -148,17 +86,7 @@
         "curriculumn": "KNEC",
         "contact_number": "0202011779",
         "location": "Thika",
-        "country": "Kenya",
-        "reviews": [
-            {
-              "rating": 4,
-              "content": "This school has excellent teachers and a great sports program."
-            },
-            {
-              "rating": 5,
-              "content": "I highly recommend this school. The facilities are top-notch."
-            }
-          ]
+        "country": "Kenya"
     
       },
       {
@@ -332,18 +260,7 @@
         "curriculumn": "British",
         "contact_number": "+254743299810",
         "location": "Nairobi",
-        "country": "Kenya",
-        "reviews": [
-            {
-              "rating": 4,
-              "content": "This school has excellent teachers and a great sports program."
-            },
-            {
-              "rating": 5,
-              "content": "I highly recommend this school. The facilities are top-notch."
-            }
-          ]
-    
+        "country": "Kenya"
       }
 
     ]
